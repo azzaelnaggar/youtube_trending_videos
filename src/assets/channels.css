@@ -1,0 +1,40 @@
+.style_col1 {
+    width: 10%;
+    padding: 0px 43px 0px 20px;
+    margin: 20px 46px 0px 0;
+}
+
+.style_col2 {
+    align-items: end; /*error align*/
+    padding-left: 411px;
+    margin-right: 0px;
+    margin-left: -492px;
+    margin-top: 20px;
+    width: 80%;
+}
+
+.style_row2 {
+    text-align: center;
+    padding: 0px 0px 0px -516px;
+}
+
+.style_border {
+    border: 10px solid white;
+    border-radius: 22px;
+    margin: 20px 10px 20px 10px;
+    box-shadow: 0px 9px 10px -1px rgb(186 74 74 / 45%);
+}
+
+.trend_count_style {
+    border: 10px solid white;
+    border-radius: 22px;
+    margin: 21px 20px 0 -104px;
+    box-shadow: 0px 9px 10px -1px rgb(186 74 74 / 45%);
+}
+
+.corr_graph_style {
+    border: 10px solid white;
+    border-radius: 22px;
+    margin: 20px 120px 0 22px;
+    box-shadow: 0px 9px 10px -1px rgb(186 74 74 / 45%);
+}
